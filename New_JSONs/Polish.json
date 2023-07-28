@@ -1,0 +1,127 @@
+{
+    "count": 20,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "05852ecc-1725-4201-a9da-42b14ce2367b",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "0e6bdb9b-cbd0-412c-809c-a229ca9e30cb",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1704f790-a336-4a4d-b83a-ec37489c23ce",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2cc6f8e2-e324-49eb-aec3-12594c02ab2e",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2febc420-e20a-45bf-8d53-1058e8eb45c9",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "59a6ae8c-a6e2-43ee-ba06-3ae37d943d4e",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "6406b84a-ab2f-4955-91ef-31b91001f094",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "6df49659-0e0a-4f2a-99cb-a69a29dc338d",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "710fb47c-d2b5-4b95-b3ba-adeb38bbe3c9",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "723e7f65-e017-47b3-8ac0-bb284375a61f",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7895977d-97bf-497c-87f3-3061734ce999",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "95519f14-4e15-4770-8151-8a89c978c61a",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "9c8e1f68-0a19-4a49-8263-cdda2820eab0",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "b09a9ffa-4b37-4194-bbae-cfe00688f4f5",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "b3a26033-70c6-4dd0-afe9-1db6896381e6",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "be819aba-96a0-4797-99d5-395074d5439b",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ca0edc3d-6023-43fa-b406-321b59c5949e",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ca2a548f-6c95-4be6-af68-d1fe365d48b5",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "cd551883-a748-49f0-88c8-048447a16fd0",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d95a5cf3-cdce-4eef-a610-90bd772e1753",
+            "collectionId": "Polish",
+            "type": "Sentences",
+            "status": "private"
+        }
+    ]
+}
